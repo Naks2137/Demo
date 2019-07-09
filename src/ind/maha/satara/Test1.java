@@ -11,6 +11,6 @@ System.out.println("Mobile no="+emp.getMobileno());
 System.out.println("Salary="+emp.getSalary());
 
 
-System.out.println("DEmo");
+
 }
 }
