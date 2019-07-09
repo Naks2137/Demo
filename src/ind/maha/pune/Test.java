@@ -17,5 +17,7 @@ e.setMobileno(Long.parseLong(args[2]));
 e.setSalary(Float.parseFloat(args[3]));
 t.display(e);
 
+System.out.println("CJC");
+
 }
 }
