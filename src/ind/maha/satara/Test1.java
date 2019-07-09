@@ -9,5 +9,8 @@ System.out.println("Id="+emp.getId());
 System.out.println("Name="+emp.getName());
 System.out.println("Mobile no="+emp.getMobileno());
 System.out.println("Salary="+emp.getSalary());
+
+
+System.out.println("DEmo");
 }
 }
