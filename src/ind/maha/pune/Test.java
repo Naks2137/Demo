@@ -9,7 +9,7 @@ public class Test
 public static void main(String args[])
 {
 	
-	
+	System.out.println("A");	
 Test1 t=new Test1();
 Employee e=new Employee();
 
@@ -19,7 +19,7 @@ e.setMobileno(Long.parseLong(args[2]));
 e.setSalary(Float.parseFloat(args[3]));
 t.display(e);
 
-System.out.println("A");
+
 
 }
 }
