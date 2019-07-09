@@ -6,6 +6,8 @@ private int id;
 private String name;
 private long mobileno;
 private float salary;
+
+
 public int getId() {
 	return id;
 }
